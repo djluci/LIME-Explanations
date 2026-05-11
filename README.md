@@ -1,5 +1,6 @@
 
 Student Grade Prediction & Model Interpretability with LIME
+
 A machine learning project that trains and interprets classification models to predict whether a student will score above 90, using Logistic Regression, Neural Networks, and LIME explanations.
 
 Overview
